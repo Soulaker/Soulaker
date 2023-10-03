@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://img.shields.io/badge/python-3.9-orange
 
 <!--
 **Soulaker/Soulaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
