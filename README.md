@@ -1,4 +1,4 @@
-你好啊，欢迎来到Soulake的主页:trollface:
+你好啊，欢迎来到Soulake的主页 :trollface:
 
 
 本人系一位高三牲，出于兴趣和爱好在空闲时间不定期产出一些头脑风暴
