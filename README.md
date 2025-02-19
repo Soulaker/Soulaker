@@ -10,7 +10,7 @@
 
 正在学的编程语言：C++，Python3
 
-典型项目：https://github.com/Soulaker/Code game
+典型项目：https://github.com/Soulaker/Card-Game
 
 github概览数据：
 
