@@ -1,28 +1,36 @@
-*你好啊，欢迎来到Soulake的主页 :trollface:*
+*Welcome to Soulake's main page! :trollface:*
 
-可以简称我*sak*
+You can call me *“sak‘* directly.
 
-本人系一位*计算机科学与技术专业💻*的大二牲
+A student majors in *Computer Science and Technology💻*
 
-💯intj💜是也
+By now,I'm a💯intj💜
 
-~~纯纯编程小菜狗~~
-<u>立志有为🥇然后和我喜欢的***美人儿💌***在一起😙</u>
+~~I don’t have a good command of programming.😿~~
 
-爱好广泛，出于兴趣和爱好在空闲时间不定期产出一些头脑风暴🧠 ~~可能会有点不切实际~~
+<u>I'm so thirsty for chanllenging myself🥇and getting married with the ***cute girl💌***who I love so deeply!😙</u>
 
-编程水平并不是很强，因此如果代码里出现什么低级错误，还望各位大佬耐心指出😄！
+For the sake of hobby and interest,I could create some brainstorms🧠randomly.~~Do not balme me for the unrealistic tips!~~
 
-正在学的编程语言：***C++，Python3，java，html，css，Vue，js***
+I would be extremely grateful if any senior develper could point out the mistakes in my code🥺🫰！
 
-最近在做的项目：***https://github.com/Soulaker/caeser-code***
-~~希望自己在2026补药再当鸽子了🥺，每天多写些代码:~~
+The language I’m studying：
 
-github概览数据：
+***C++，Python3，java，html，css，Vue，js，MarkDown***
+
+The project I‘m building presenly：
+
+***https://github.com/Soulaker/Caeser-Code***
+
+***https://github.com/Soulaker/Own-code-repository***
+
+~~Hope I could contribute more code in 2026🥺and stop slacking off from now on👍!~~
+
+General Data：
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Soulaker&show_icons=true&theme=dark&count_private=true)
 
-github语言数据：
+Language Data：
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soulake&theme=dark&layout=compact)
 
