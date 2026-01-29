@@ -18,7 +18,7 @@ The language I’m studying：
 
 ***C++，Python3，java，html，css，Vue，js，MarkDown***
 
-The project I‘m building presenly：
+The project I‘m building presently：
 
 ***https://github.com/Soulaker/Caeser-Code***
 
