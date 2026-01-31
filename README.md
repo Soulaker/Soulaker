@@ -26,12 +26,6 @@ The project I‘m building presently：
 
 ~~Hope I could contribute more code in 2026🥺and stop slacking off from now on👍!~~
 
-General Data：
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Soulaker&show_icons=true&theme=dark&count_private=true)
-
-Language Data：
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soulake&theme=dark&layout=compact)
 
 
