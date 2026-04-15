@@ -16,7 +16,7 @@ I would be extremely grateful if any senior develper could point out the mistake
 
 The language I’m studying：
 
-***C++，Python3，java，html，css，Vue，js，MarkDown，java，SQL-server***
+***C++，Python3，java，html，css，Vue，js，MarkDown，java***
 
 The project I‘m building presently：
 
